@@ -10,7 +10,7 @@
 
 <p align="left"> 
 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/fa314a/c-plus-plus-logo.png"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/fa314a/c-plus-plus-logo.png"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
 <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/fa314a/dart.png"/></a> 
  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
