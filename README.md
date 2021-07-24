@@ -62,7 +62,7 @@
 <br/>
 
 ## 🙋‍♂️ Connect with me:
-<p align="left">
+<p align="center">
 
 <a href = "https://in.linkedin.com/in/sawanabhi157/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.quora.com/profile/Abhishek-Sawan-5"><img src="https://img.icons8.com/doodle/48/4a90e2/quora--v1.png"/> </a>
