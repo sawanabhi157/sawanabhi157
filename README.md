@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Sawan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Abhishek Sawan</h1>
 <h3 align="center">A passionate MERN Stack Developer  and currently, I'm focusing on improving my knowledge of Data Structure and algorithms. </h3> 
 
 
