@@ -8,6 +8,7 @@
 :telescope: I am a pre-final year student at IIIT Gwalior pursuing Integrated Post Graduate (B.Tech+M.Tech) degree in Information Technology. I'm Full Stack Developer and Open Source Enthusiat. I have 6 months of experince as a SDE Intern Logiciel Analytics. :seedling: I’m currently learning how to build distributed and reliable systems. Interested in all things related to Go, Linux, Site Reliability, DevOps, React, TypeScript, and Observability.
 
 You can find me on Twitter [@sawanabhi157](https://twitter.com/sawanabhi157) and on [LinkedIn](https://www.linkedin.com/in/sawanabhi157/).
+  <br/>
 <a href="https://github.com/sawanabhi157/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sawanabhi157">
 </a>
