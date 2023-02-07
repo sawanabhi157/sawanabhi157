@@ -8,7 +8,10 @@
 :telescope: I am a pre-final year student at IIIT Gwalior pursuing Integrated Post Graduate (B.Tech+M.Tech) degree in Information Technology. I'm Full Stack Developer and Open Source Enthusiat. I have 6 months of experince as a SDE Intern Logiciel Analytics. :seedling: I’m currently learning how to build distributed and reliable systems. Interested in all things related to Go, Linux, Site Reliability, DevOps, React, TypeScript, and Observability.
 
 You can find me on Twitter [@sawanabhi157](https://twitter.com/sawanabhi157) and on [LinkedIn](https://www.linkedin.com/in/sawanabhi157/).
-
+## ❤ Views
+<a href="https://github.com/sawanabhi157/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sawanabhi157">
+</a>
 
 
 <!-- ## 🚀 Languages and Tools: -->
@@ -50,11 +53,7 @@ You can find me on Twitter [@sawanabhi157](https://twitter.com/sawanabhi157) and
     <a href="https://github.com/sawanabhi157/github-readme-stats"><img alt="Abhishek Sawan Github Stats" src="https://github-readme-stats.vercel.app/api?username=sawanabhi157&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/sawanabhi157/github-readme-stats"><img alt="Abhishek Sawan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawanabhi157&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
-<br/>
 
 <!-- <a href="https://github.com/sawanabhi157/github-readme-activity-graph"><img alt="Abhishek Sawan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sawanabhi157&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
@@ -70,8 +69,5 @@ You can find me on Twitter [@sawanabhi157](https://twitter.com/sawanabhi157) and
 
 </p>
 
-## ❤ Views
-<a href="https://github.com/sawanabhi157/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sawanabhi157">
-</a>
+
 <!-- <a href="https://github.com/sawanabhi157?tab=followers"><img src="https://img.shields.io/github/followers/sawanabhi157?label=Followers&style=social" alt="GitHub Badge"></a> -->
